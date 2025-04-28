@@ -5,13 +5,7 @@
 This project performs an exploratory data analysis (EDA) on Blinkit grocery sales data using Python. The goal is to understand sales patterns, identify key performance indicators (KPIs), and visualize trends within the dataset. The analysis covers aspects like sales distribution across different item types, fat content, outlet characteristics, and establishment years.
 
 ## Data Source
-
-The analysis uses an Excel file named `BlinkIT Grocery Data.xlsx`.
-
-**Note:** The notebook currently loads the data from a specific local path (`D:\DATA_ANALYST.tutorial\POWER_BI_PROJECT\2-Blinkit Sales_data_project_BI\BlinkIT Grocery Data.xlsx`). To run this notebook, you will need to:
-1. Obtain the `BlinkIT Grocery Data.xlsx` file.
-2. Place it in the same directory as the notebook or update the file path in the code cell where `pd.read_excel` is used.
-
+https://drive.google.com/drive/folders/1VYDaziCCvS9sEeMpF9OfdfGG17U0Ajmb
 ## Tools and Libraries
 
 The following Python libraries are used in this analysis:
